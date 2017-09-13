@@ -1,2 +1,2 @@
-require './service'
+require './lib/service'
 run Sinatra::Application
